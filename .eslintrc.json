@@ -1,0 +1,3 @@
+{
+  "extends": ["@gabpires/eslint-config/node"]
+}
