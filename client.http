@@ -1,0 +1,15 @@
+POST http://localhost:3333/api/links
+Content-Type: application/json
+
+{
+  "code": "react",
+  "url": "https://www.github.com/GabriPires"
+}
+
+###
+
+GET http://localhost:3333/api/links
+
+###
+
+GET http://localhost:3333/teste
